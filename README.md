@@ -28,7 +28,7 @@ A dark theme for [Omarchy](https://omarchy.org), themed around books and sunligh
 To install this theme:
 
 ```bash
-omarchy-theme-install https://github.com/Nirmal314/omarchy-books-theme
+omarchy-theme-install https://github.com/Nirmal314/omarchy-books-and-sunlight-theme
 ```
 
 ## Compatibility
