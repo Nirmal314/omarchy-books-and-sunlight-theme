@@ -50,38 +50,38 @@ This theme includes configurations for:
 
 <table>
   <tr>
-    <td align="center" width="20"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23ab695e'/></svg>"><br><sub>Accent<br><code>#ab695e</code></sub></td>
-    <td align="center" width="20"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%231a1a1a'/></svg>"><br><sub>Selection<br><code>#1a1a1a</code></sub></td>
-    <td align="center" width="20"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23686163'/></svg>"><br><sub>Muted<br><code>#686163</code></sub></td>
-    <td align="center" width="20"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23000000'/></svg>"><br><sub>Background<br><code>#000000</code></sub></td>
-    <td align="center" width="20"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%231a1a1a'/></svg>"><br><sub>Lighter BG<br><code>#1a1a1a</code></sub></td>
+    <td align="center" style="background-color: #ab695e; color: #ffffff;"><sub>Accent</sub><br><code>#ab695e</code></td>
+    <td align="center" style="background-color: #1a1a1a; color: #ffffff;"><sub>Selection</sub><br><code>#1a1a1a</code></td>
+    <td align="center" style="background-color: #686163; color: #ffffff;"><sub>Muted</sub><br><code>#686163</code></td>
+    <td align="center" style="background-color: #000000; color: #ffffff;"><sub>Background</sub><br><code>#000000</code></td>
+    <td align="center" style="background-color: #1a1a1a; color: #ffffff;"><sub>Lighter BG</sub><br><code>#1a1a1a</code></td>
   </tr>
   <tr>
-    <td align="center" width="20"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23C8A889'/></svg>"><br><sub>Foreground<br><code>#C8A889</code></sub></td>
-    <td align="center" width="20"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23967e67'/></svg>"><br><sub>Dark FG<br><code>#967e67</code></sub></td>
-    <td align="center" width="20"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23d0b59b'/></svg>"><br><sub>Light FG<br><code>#d0b59b</code></sub></td>
-    <td align="center" width="20"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23d6bea7'/></svg>"><br><sub>Bright FG<br><code>#d6bea7</code></sub></td>
-    <td align="center" width="20"></td>
+    <td align="center" style="background-color: #C8A889; color: #000000;"><sub>Foreground</sub><br><code>#C8A889</code></td>
+    <td align="center" style="background-color: #967e67; color: #ffffff;"><sub>Dark FG</sub><br><code>#967e67</code></td>
+    <td align="center" style="background-color: #d0b59b; color: #000000;"><sub>Light FG</sub><br><code>#d0b59b</code></td>
+    <td align="center" style="background-color: #d6bea7; color: #000000;"><sub>Bright FG</sub><br><code>#d6bea7</code></td>
+    <td align="center"></td>
   </tr>
   <tr>
-    <td align="center"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23b68860'/></svg>"><br><sub>Red<br><code>#b68860</code></sub></td>
-    <td align="center"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23d8bd76'/></svg>"><br><sub>Green<br><code>#d8bd76</code></sub></td>
-    <td align="center"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23ffe894'/></svg>"><br><sub>Yellow<br><code>#ffe894</code></sub></td>
-    <td align="center"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23ab695e'/></svg>"><br><sub>Blue<br><code>#ab695e</code></sub></td>
-    <td align="center"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23e09470'/></svg>"><br><sub>Magenta<br><code>#e09470</code></sub></td>
+    <td align="center" style="background-color: #b68860; color: #ffffff;"><sub>Red</sub><br><code>#b68860</code></td>
+    <td align="center" style="background-color: #d8bd76; color: #000000;"><sub>Green</sub><br><code>#d8bd76</code></td>
+    <td align="center" style="background-color: #ffe894; color: #000000;"><sub>Yellow</sub><br><code>#ffe894</code></td>
+    <td align="center" style="background-color: #ab695e; color: #ffffff;"><sub>Blue</sub><br><code>#ab695e</code></td>
+    <td align="center" style="background-color: #e09470; color: #ffffff;"><sub>Magenta</sub><br><code>#e09470</code></td>
   </tr>
   <tr>
-    <td align="center"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23c19a78'/></svg>"><br><sub>Orange<br><code>#c19a78</code></sub></td>
-    <td align="center"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23e4db78'/></svg>"><br><sub>Cyan<br><code>#e4db78</code></sub></td>
-    <td align="center"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23745c48'/></svg>"><br><sub>Brown<br><code>#745c48</code></sub></td>
-    <td align="center"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23d49b68'/></svg>"><br><sub>Bright Red<br><code>#d49b68</code></sub></td>
-    <td align="center"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23f6d373'/></svg>"><br><sub>Bright Green<br><code>#f6d373</code></sub></td>
+    <td align="center" style="background-color: #c19a78; color: #ffffff;"><sub>Orange</sub><br><code>#c19a78</code></td>
+    <td align="center" style="background-color: #e4db78; color: #000000;"><sub>Cyan</sub><br><code>#e4db78</code></td>
+    <td align="center" style="background-color: #745c48; color: #ffffff;"><sub>Brown</sub><br><code>#745c48</code></td>
+    <td align="center" style="background-color: #d49b68; color: #ffffff;"><sub>Bright Red</sub><br><code>#d49b68</code></td>
+    <td align="center" style="background-color: #f6d373; color: #000000;"><sub>Bright Green</sub><br><code>#f6d373</code></td>
   </tr>
   <tr>
-    <td align="center"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23ffe97d'/></svg>"><br><sub>Bright Yellow<br><code>#ffe97d</code></sub></td>
-    <td align="center"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23ca796b'/></svg>"><br><sub>Bright Blue<br><code>#ca796b</code></sub></td>
-    <td align="center"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23ffa375'/></svg>"><br><sub>Bright Magenta<br><code>#ffa375</code></sub></td>
-    <td align="center"><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16'><rect width='16' height='16' fill='%23fef374'/></svg>"><br><sub>Bright Cyan<br><code>#fef374</code></sub></td>
+    <td align="center" style="background-color: #ffe97d; color: #000000;"><sub>Bright Yellow</sub><br><code>#ffe97d</code></td>
+    <td align="center" style="background-color: #ca796b; color: #ffffff;"><sub>Bright Blue</sub><br><code>#ca796b</code></td>
+    <td align="center" style="background-color: #ffa375; color: #000000;"><sub>Bright Magenta</sub><br><code>#ffa375</code></td>
+    <td align="center" style="background-color: #fef374; color: #000000;"><sub>Bright Cyan</sub><br><code>#fef374</code></td>
     <td align="center"></td>
   </tr>
 </table>
