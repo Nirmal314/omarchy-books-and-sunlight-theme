@@ -22,7 +22,7 @@ return {
         orange     = "#c19a78",
         green      = "#d8bd76",
         cyan       = "#e4db78",
-        blue       = "#ab695e",
+        blue       = "#c19a78",
         purple     = "#e09470",
         brown      = "#745c48",
 
@@ -30,7 +30,7 @@ return {
         bright_yellow = "#ffe97d",
         bright_green  = "#f6d373",
         bright_cyan   = "#fef374",
-        bright_blue   = "#ca796b",
+        bright_blue   = "#ab695e",
         bright_purple = "#ffa375",
 
         accent               = "#ab695e",

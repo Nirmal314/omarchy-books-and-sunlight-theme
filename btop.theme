@@ -52,9 +52,9 @@ theme[temp_start]="#d8bd76"
 theme[temp_mid]="#ffe894"
 theme[temp_end]="#b68860"
 
-# CPU graph colors (Teal -> Blue -> Purple)
+# CPU graph colors (Cyan -> Orange -> Purple)
 theme[cpu_start]="#e4db78"
-theme[cpu_mid]="#ab695e"
+theme[cpu_mid]="#c19a78"
 theme[cpu_end]="#e09470"
 
 # Mem/Disk free meter
@@ -72,7 +72,7 @@ theme[available_start]="#ffe894"
 theme[available_mid]="#b68860"
 theme[available_end]="#b68860"
 
-# Mem/Disk used meter (Green -> Teal -> Blue)
+# Mem/Disk used meter (Green -> Cyan -> Orange)
 theme[used_start]="#d8bd76"
 theme[used_mid]="#e4db78"
 theme[used_end]="#ab695e"
@@ -82,7 +82,7 @@ theme[download_start]="#ffe894"
 theme[download_mid]="#b68860"
 theme[download_end]="#b68860"
 
-# Upload graph colors (Green -> Teal -> Blue)
+# Upload graph colors (Green -> Cyan -> Orange)
 theme[upload_start]="#d8bd76"
 theme[upload_mid]="#e4db78"
 theme[upload_end]="#ab695e"

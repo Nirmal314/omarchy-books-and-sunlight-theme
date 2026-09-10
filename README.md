@@ -65,7 +65,6 @@ This theme includes configurations for:
     <td align="center"><img src="https://singlecolorimage.com/get/ffe894/60x20"/><br><sub>Yellow</sub><br><code>#ffe894</code></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://singlecolorimage.com/get/ab695e/60x20"/><br><sub>Blue</sub><br><code>#ab695e</code></td>
     <td align="center"><img src="https://singlecolorimage.com/get/e09470/60x20"/><br><sub>Magenta</sub><br><code>#e09470</code></td>
     <td align="center"><img src="https://singlecolorimage.com/get/e4db78/60x20"/><br><sub>Cyan</sub><br><code>#e4db78</code></td>
     <td align="center"><img src="https://singlecolorimage.com/get/d49b68/60x20"/><br><sub>Bright Red</sub><br><code>#d49b68</code></td>
@@ -73,7 +72,6 @@ This theme includes configurations for:
     <td align="center"><img src="https://singlecolorimage.com/get/ffe97d/60x20"/><br><sub>Bright Yellow</sub><br><code>#ffe97d</code></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://singlecolorimage.com/get/ca796b/60x20"/><br><sub>Bright Blue</sub><br><code>#ca796b</code></td>
     <td align="center"><img src="https://singlecolorimage.com/get/ffa375/60x20"/><br><sub>Bright Magenta</sub><br><code>#ffa375</code></td>
     <td align="center"><img src="https://singlecolorimage.com/get/fef374/60x20"/><br><sub>Bright Cyan</sub><br><code>#fef374</code></td>
     <td align="center"><img src="https://singlecolorimage.com/get/c19a78/60x20"/><br><sub>Orange</sub><br><code>#c19a78</code></td>
