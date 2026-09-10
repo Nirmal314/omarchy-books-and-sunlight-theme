@@ -1,0 +1,120 @@
+themes {
+    current {
+        text_unselected {
+            base 200 168 137
+            background 104 97 99
+            emphasis_0 193 154 120
+            emphasis_1 254 243 116
+            emphasis_2 246 211 115
+            emphasis_3 255 163 117
+        }
+        text_selected {
+            base 200 168 137
+            background 104 97 99
+            emphasis_0 193 154 120
+            emphasis_1 254 243 116
+            emphasis_2 246 211 115
+            emphasis_3 255 163 117
+        }
+        ribbon_selected {
+            base 104 97 99
+            background 246 211 115
+            emphasis_0 212 155 104
+            emphasis_1 193 154 120
+            emphasis_2 255 163 117
+            emphasis_3 202 121 107
+        }
+        ribbon_unselected {
+            base 104 97 99
+            background 200 168 137
+            emphasis_0 212 155 104
+            emphasis_1 200 168 137
+            emphasis_2 202 121 107
+            emphasis_3 255 163 117
+        }
+        table_title {
+            base 246 211 115
+            background 0
+            emphasis_0 193 154 120
+            emphasis_1 254 243 116
+            emphasis_2 246 211 115
+            emphasis_3 255 163 117
+        }
+        table_cell_selected {
+            base 200 168 137
+            background 104 97 99
+            emphasis_0 193 154 120
+            emphasis_1 254 243 116
+            emphasis_2 246 211 115
+            emphasis_3 255 163 117
+        }
+        table_cell_unselected {
+            base 200 168 137
+            background 104 97 99
+            emphasis_0 193 154 120
+            emphasis_1 254 243 116
+            emphasis_2 246 211 115
+            emphasis_3 255 163 117
+        }
+        list_selected {
+            base 200 168 137
+            background 104 97 99
+            emphasis_0 193 154 120
+            emphasis_1 254 243 116
+            emphasis_2 246 211 115
+            emphasis_3 255 163 117
+        }
+        list_unselected {
+            base 200 168 137
+            background 104 97 99
+            emphasis_0 193 154 120
+            emphasis_1 254 243 116
+            emphasis_2 246 211 115
+            emphasis_3 255 163 117
+        }
+        frame_selected {
+            base 246 211 115
+            background 0
+            emphasis_0 193 154 120
+            emphasis_1 254 243 116
+            emphasis_2 255 163 117
+            emphasis_3 0
+        }
+        frame_highlight {
+            base 193 154 120
+            background 0
+            emphasis_0 255 163 117
+            emphasis_1 193 154 120
+            emphasis_2 193 154 120
+            emphasis_3 193 154 120
+        }
+        exit_code_success {
+            base 246 211 115
+            background 0
+            emphasis_0 254 243 116
+            emphasis_1 104 97 99
+            emphasis_2 255 163 117
+            emphasis_3 202 121 107
+        }
+        exit_code_error {
+            base 212 155 104
+            background 0
+            emphasis_0 255 232 148
+            emphasis_1 0
+            emphasis_2 0
+            emphasis_3 0
+        }
+        multiplayer_user_colors {
+            player_1 255 163 117
+            player_2 202 121 107
+            player_3 0
+            player_4 255 232 148
+            player_5 254 243 116
+            player_6 0
+            player_7 212 155 104
+            player_8 0
+            player_9 0
+            player_10 0
+        }
+    }
+}
